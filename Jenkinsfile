@@ -35,7 +35,7 @@ pipeline {
       stage('Deploy') {
             steps {
                 echo 'מריצים את הגרסה החדשה על פורט 8001'
-                sh 'docker run -d --name filename-live-${BUILD_NUMBER} -p 8001:8000 jenkins:latest${BUILD_NUMBER}'
+                sh 'docker run -d --name filename-live-${BUILD_NUMBER} -p 8001:8000 jenkins:${BUILD_NUMBER}'
             }
       }
 
