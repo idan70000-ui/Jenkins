@@ -8,6 +8,7 @@ const greets = [
   "Make today count.",
   "Your future starts with what you do today.",
   "what you do today can improve all your tomorrows.",
+  "Believe in yourself and all that you are.",
 ];
 
 function randomGreets() {
