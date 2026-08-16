@@ -18,6 +18,7 @@ const greets = [
   "Do not watch the clock. Do what it does. Keep going.",
   "The secret of getting ahead is getting started.",
   "do not wait to strike till the iron is hot; but make it hot by striking.",
+  "great minds discuss ideas; average minds discuss events; small minds discuss people.",
   "",
 ];
 
