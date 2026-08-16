@@ -19,6 +19,7 @@ const greets = [
   "The secret of getting ahead is getting started.",
   "do not wait to strike till the iron is hot; but make it hot by striking.",
   "great minds discuss ideas; average minds discuss events; small minds discuss people.",
+  "do not go where the path may lead, go instead where there is no path and leave a trail.",
   "",
 ];
 
