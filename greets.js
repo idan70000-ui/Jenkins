@@ -10,6 +10,7 @@ const greets = [
   "what you do today can improve all your tomorrows.",
   "Believe in yourself and all that you are.",
   "You are capable of amazing things.",
+  "Don't wait for opportunity. Create it.",
 ];
 
 function randomGreets() {
