@@ -16,7 +16,8 @@ const greets = [
   "The only limit to our realization of tomorrow will be our doubts of today.",
   "The best way to predict the future is to create it.",
   "Do not watch the clock. Do what it does. Keep going.",
-  ""
+  "The secret of getting ahead is getting started.",
+  "",
 ];
 
 function randomGreets() {
