@@ -11,6 +11,7 @@ const greets = [
   "Believe in yourself and all that you are.",
   "You are capable of amazing things.",
   "Don't wait for opportunity. Create it.",
+  "You are enough just as you are.",
 ];
 
 function randomGreets() {
