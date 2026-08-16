@@ -14,6 +14,7 @@ const greets = [
   "You are enough just as you are.",
   "Success is not final, failure is not fatal: It is the courage to continue that counts.",
   "The only limit to our realization of tomorrow will be our doubts of today.",
+  "The best way to predict the future is to create it.",
 ];
 
 function randomGreets() {
