@@ -15,7 +15,7 @@ const greets = [
   "Success is not final, failure is not fatal: It is the courage to continue that counts.",
   "The only limit to our realization of tomorrow will be our doubts of today.",
   "The best way to predict the future is to create it.",
-  "Do not watch the clock. Do what it does. Keep going."
+  "Do not watch the clock. Do what it does. Keep going.",
   ""
 ];
 
