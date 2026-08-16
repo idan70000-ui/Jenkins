@@ -17,6 +17,7 @@ const greets = [
   "The best way to predict the future is to create it.",
   "Do not watch the clock. Do what it does. Keep going.",
   "The secret of getting ahead is getting started.",
+  "do not wait to strike till the iron is hot; but make it hot by striking.",
   "",
 ];
 
