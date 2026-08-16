@@ -12,6 +12,7 @@ const greets = [
   "You are capable of amazing things.",
   "Don't wait for opportunity. Create it.",
   "You are enough just as you are.",
+  "Success is not final, failure is not fatal: It is the courage to continue that counts.",
 ];
 
 function randomGreets() {
