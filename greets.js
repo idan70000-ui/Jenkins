@@ -21,6 +21,7 @@ const greets = [
   "great minds discuss ideas; average minds discuss events; small minds discuss people.",
   "do not go where the path may lead, go instead where there is no path and leave a trail.",
   "failure will never overtake me if my determination to succeed is strong enough.",
+  "have a good day!!",
   "",
 ];
 
