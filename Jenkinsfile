@@ -46,7 +46,7 @@ pipeline {
 
    post {
       success {
-         echo "הכל עבר בהצלחה 🧨"
+         echo "תהליך האוטומציה הושלם ועבר בהצלחה :)"
       }
       failure {
          echo "משהו השתבש 😫"
