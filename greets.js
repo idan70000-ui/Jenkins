@@ -22,6 +22,7 @@ const greets = [
   "do not go where the path may lead, go instead where there is no path and leave a trail.",
   "failure will never overtake me if my determination to succeed is strong enough.",
   "have a good day!!",
+  "",
 ];
 
 function randomGreets() {
